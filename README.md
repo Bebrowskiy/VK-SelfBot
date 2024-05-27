@@ -1,6 +1,6 @@
 <p align="center">Самый обычный селфбот, написанный на Python с использованием vkbottle</p>
 
-<p align="center">Является форком проекта <a href="https://github.com/F1zzTao/vkplus">VK+</a> by <a href="https://vk.com/tbogdanov96">F1zzTao</a></p>
+<p align="center">Является форком проекта <a href="https://github.com/F1zzTao/vkplus">VK+</a> by <a href="https://vk.com/f1zztao">F1zzTao</a></p>
 
 <p align="center"><img alt="image" src="pictures/image.png" /></p>
 
