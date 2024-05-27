@@ -3,4 +3,3 @@ aiohttp
 psutil
 simpledemotivators
 g4f
-subprocess
